@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: io.confluent/kafka-avro-serializer:5.1.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/confluent/kafka-avro-serializer/5.1.2/kafka-avro-serializer-5.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
